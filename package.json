@@ -4,14 +4,15 @@
   "description": "Galad Agricultural is a business website dedicated to showcasing innovative agricultural solutions, offering detailed service information, client testimonials, and industry insights to support sustainable farming practices.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint 'src/**/*.js'"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^9.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.31.0",
     "hint": "^2.0.0",
