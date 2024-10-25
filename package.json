@@ -1,0 +1,12 @@
+{
+  "name": "galad-agricultural",
+  "version": "1.0.0",
+  "description": "Galad Agricultural is a business website dedicated to showcasing innovative agricultural solutions, offering detailed service information, client testimonials, and industry insights to support sustainable farming practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
